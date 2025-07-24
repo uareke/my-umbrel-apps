@@ -3,10 +3,10 @@ id: "photopea"
 name: "Photopea"
 tagline: "Online Photo Editor"
 description: "A free online editor supporting PSD, XCF, Sketch, XD and CDR formats."
-version: "1.0.0"
-author: "Seu Nome"
-repo: "https://hub.docker.com/r/photopea/photopea-selfhosted"
+version: "2.0.0"
+author: "Um cara ai"
+repo: "https://github.com/Photopea/photopea" 
 support: ""
 gallery: []
 path: ""
-port: 8487
+port: 8887 
