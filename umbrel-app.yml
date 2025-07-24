@@ -1,0 +1,12 @@
+manifestVersion: 1
+id: "photopea"
+name: "Photopea"
+tagline: "Online Photo Editor"
+description: "A free online editor supporting PSD, XCF, Sketch, XD and CDR formats."
+version: "1.0.0"
+author: "Seu Nome"
+repo: "https://hub.docker.com/r/photopea/photopea-selfhosted"
+support: ""
+gallery: []
+path: ""
+port: 8487
