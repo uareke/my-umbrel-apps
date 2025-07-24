@@ -7,7 +7,10 @@ services:
       PROXY_AUTH_ADD: "false"
 
   photopea:
-    image: photopea/photopea-selfhosted:latest
+    image: ramuses/photopea:latest 
+    container_name: photopea
     restart: unless-stopped
     ports:
-      - "8487:80"
+      - "8887:80" 
+    volumes:
+      - ./data:/config 
